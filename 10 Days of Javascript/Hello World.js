@@ -1,4 +1,5 @@
 /* Link: https://www.hackerrank.com/challenges/js10-hello-world/problem */
+/* This is Day 0 of 10 Days of Javascript */
 'use strict';
 
 process.stdin.resume();
