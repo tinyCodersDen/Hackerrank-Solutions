@@ -1,5 +1,5 @@
 # Link: https://www.hackerrank.com/challenges/30-binary-trees/problem
-# This is Day 23 in 30 Days of Code
+# This is Day 23 of 30 Days of Code
 import sys
 
 class Node:
