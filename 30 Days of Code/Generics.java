@@ -1,3 +1,5 @@
+// Link: https://www.hackerrank.com/challenges/30-generics/problem
+// This is Day 21 of 30 Days of Code
 import java.util.*;
 
 class Printer <T> {
